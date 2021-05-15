@@ -1,0 +1,24 @@
+.biography{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 20px;
+}
+
+.cards{
+  display: flex;
+  text-align: center;
+  align-items: flex-end;
+}
+
+#profile{
+  width: 400px;
+  margin-bottom: 18px;
+}
+
+#biography{
+  text-align: right;
+}
+
+#objectives{
+  text-align: left;
+}

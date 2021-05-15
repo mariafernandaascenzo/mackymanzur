@@ -1,0 +1,50 @@
+body{
+  background-image: url(../images/background.jpeg);
+  background-size: cover;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  color: #5f4545;
+  margin:0px;
+}
+
+a{
+  text-decoration: none;
+  color: #5f4545;
+}
+
+li{
+  list-style: none;
+}
+
+.container{
+  height: flex;
+  margin:0px 100px;
+  padding:0px;
+}
+
+.header{
+  text-align: center;
+}
+
+.logo{
+  width: 50%;
+}
+
+.description{
+  width: 300px;
+  margin: auto;
+  margin-top: -70px;
+  margin-bottom: 50px;
+  padding-right: 150px;
+  text-align: right;
+}
+
+.description p{
+  margin:0px;
+}
+
+#variable{
+  height:280px;
+}
+

@@ -1,0 +1,57 @@
+#bar{
+  margin:0px;
+  padding:0px;
+  width: 100%;
+  height: 150px;
+  position:fixed;
+  overflow-y:hidden;
+}
+
+.sidebar{
+  text-align: center;
+  margin: 15px auto;
+  margin-bottom: 35px;
+}
+
+.sidebar li{
+  display: inline;
+  padding: 0px 50px;
+  font-size:40px;
+  text-transform: uppercase;
+  color: #A88C8A;
+}
+
+.sidebar a{
+  color: #A88C8A;
+}
+
+.sidebar li:hover{
+  color: #5F4545;
+}
+
+.sidebar a:hover{
+  color: #5F4545;
+}
+
+.division{
+  display:block;
+  width: 95%;
+  height: 2px;
+  margin: 0px auto;
+  background-color: #A88C8A;
+  margin-top:-15px;
+}
+
+.contact{
+  text-align: center;
+}
+
+.contact ul li{
+  display:inline;
+  padding: 30px;
+  padding-bottom: 60px
+}
+
+.contact ul li :hover{
+  color: #A88C8A;
+}
